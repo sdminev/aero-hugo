@@ -43,7 +43,7 @@ expire_days = 2
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDlX7U-mDBkxiTMlrqnmHmrfSn8_7XRqwI"
 map_center_lat = "42.6912932"
-map_center_lng = "23.3383266"
+map_center_lng = "23.3283266"
 map_marker = "images/map-marker.png"
 map_position_lat = "42.6912932"
 map_position_lng = "23.3483266"
