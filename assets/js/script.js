@@ -165,10 +165,10 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
 					"elementType": "labels.text.fill",
 					"stylers": [
 						{
-							"saturation": 36
+							"saturation": 66
 						},
 						{
-							"color": "#000000"
+							"color": "#1b4f55"
 						},
 						{
 							"lightness": 40
@@ -335,7 +335,7 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
 				// SET THE BACKGROUND COLOUR
 				backgroundColor: "#000",
 				// REMOVE ALL THE CONTROLS EXCEPT ZOOM
-				zoom: 10,
+				zoom: 14,
 				panControl: false,
 				zoomControl: false,
 				mapTypeControl: false,
