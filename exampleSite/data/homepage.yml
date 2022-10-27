@@ -28,10 +28,9 @@ vision:
   - title: Work Standards
     image: images/vision/vision-02.jpg
     content: Maintaining the highest possible working standards is our passion.
-  - title: The Omega Way
+  - title: The SVT Aero Way
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Get it done now, the best way possible!
 product:
   enable: true
   section: Products
