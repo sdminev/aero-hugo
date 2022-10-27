@@ -33,11 +33,13 @@ vision:
     content: Get it done now, the best way possible!
 product:
   enable: true
-  section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  section: Services and Qualifications
+  title: Our Services
+  content: "We are proud to announce our first Part.145  line maintenance approval.
+    We have Boeing 737NG, Airbus A320CEO and looking forward to endorse many other
+    to cover our partners demand worldwide.\n\nSVT is line maintenance provider holder
+    of Part.145 approval for Boeing 737NG and Airbus A320CEO. We are available to
+    support airliners worldwide. "
   product_item:
   - title: Ecosystem
     image: images/product/product-03.jpg
