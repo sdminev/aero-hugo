@@ -13,59 +13,57 @@ mission:
   enable: true
   title: Propel Advancement
   section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  content: |-
+    We are young company with a very strong team and the goal to improve every day. We strive to provide trustful partnership, based on highest standards of flight and work safety environment.
+    Our worldwide experience guarantees your aircraft departs safely and on time.
   video_thumb: images/image1.jpg
   video_id: 04Xa26YOfcw
 vision:
   enable: true
   section: VISION
   vision_item:
-  - title: People First
+  - title: Mission First
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: Employee Culture
+    content: We started with a vision of creating a result-driven work culture.
+  - title: Work Standards
     image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: The Omega Way
+    content: Maintaining the highest possible working standards is our passion.
+  - title: The SVT Aero Way
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Get it done now, the best way possible!
 product:
   enable: true
-  section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  section: Services and Qualifications
+  title: Our Services
+  content: "We are proud to announce our first Part.145  line maintenance approval.
+    We have Boeing 737NG, Airbus A320CEO and looking forward to endorse many other
+    to cover our partners demand worldwide.\n\nSVT is line maintenance provider holder
+    of Part.145 approval for Boeing 737NG and Airbus A320CEO. We are available to
+    support airliners worldwide. "
   product_item:
-  - title: Ecosystem
+  - title: Charter operations
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: Charter operations are always demanding in terms of aircraft maintenance
+      procedures. Let our experience help your charters take off!
     project_url: "#"
-  - title: Objects
+  - title: " Un-occasional flights"
     image: images/product/product-02.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: We can provide aircraft maintenance worldwide, on a short notice - perfect
+      for un-occasional flights.
     project_url: "#"
-  - title: Publisher
+  - title: Need flight engineer?
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: Our substantial pool of engineers can support you worldwide. Anytime.
     project_url: "#"
 contact:
   enable: true
   section: CONTACT US
   title: reach us
   image: images/svt-last.jpg
-  content: The dawn of the digital age and the need for a significant leap forward
-    is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
-    can propel your business.
+  content: "If you have or plan: \n\n- Charter flight operation\n- Un-occasional flights\n-
+    Or need flight engineers\n\nOur team is always ready to ensure your flight safety.\n\nIn
+    case of AOG our big pool of engineers can support you and decrease the delays
+    significantly."
 call_to_action:
   enable: true
   title: LET'S TAKE TO THE SKY TOGETHER. <br>Click below to let us know how we can
