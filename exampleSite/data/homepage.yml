@@ -51,10 +51,9 @@ product:
     content: We can provide aircraft maintenance worldwide, on a short notice - perfect
       for un-occasional flights.
     project_url: "#"
-  - title: Publisher
+  - title: Need flight engineer?
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: Our substantial pool of engineers can support you worldwide. Anytime.
     project_url: "#"
 contact:
   enable: true
