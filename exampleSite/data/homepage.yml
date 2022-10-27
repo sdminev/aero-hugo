@@ -13,9 +13,9 @@ mission:
   enable: true
   title: Propel Advancement
   section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  content: |-
+    We are young company with a very strong team and the goal to improve every day. We strive to provide trustful partnership, based on highest standards of flight and work safety environment.
+    Our worldwide experience guarantees your aircraft departs safely and on time.
   video_thumb: images/image1.jpg
   video_id: 04Xa26YOfcw
 vision:
