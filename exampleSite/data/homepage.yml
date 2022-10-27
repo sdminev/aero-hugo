@@ -22,10 +22,9 @@ vision:
   enable: true
   section: VISION
   vision_item:
-  - title: People First
+  - title: Mission First
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: We started with a vision of creating a result-driven work culture.
   - title: Employee Culture
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.
