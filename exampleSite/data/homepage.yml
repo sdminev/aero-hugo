@@ -23,7 +23,7 @@ vision:
   section: VISION
   vision_item:
   - title: Mission First
-    image: images/vision/vision-01.jpg
+    image: "/images/cover-2.jpg"
     content: We started with a vision of creating a result-driven work culture.
   - title: Work Standards
     image: images/vision/vision-02.jpg
