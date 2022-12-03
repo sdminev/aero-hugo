@@ -5,6 +5,11 @@ title = "SVT Maintenance"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Services"
+pre = ""
+url = "#product"
+weight = ""
+[[menu.main]]
 name = "Home"
 pre = ""
 url = "/"
