@@ -42,7 +42,7 @@ product:
     support airliners worldwide. "
   product_item:
   - title: Charter operations
-    image: images/product/product-03.jpg
+    image: "/images/serv1.png"
     content: Charter operations are always demanding in terms of aircraft maintenance
       procedures. Let our experience help your charters take off!
     project_url: "#"
