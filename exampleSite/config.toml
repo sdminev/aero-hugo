@@ -34,7 +34,7 @@ author = "SDMinev.com"
 contact_info = "Bulgaria<br> Sofia Airport<br> block 3, office 4 <br>"
 description = "This is meta description"
 logo = "/images/white-logo-no-background.png"
-logo_width = "220px"
+logo_width = "145px"
 preloader = true
 [params.cookies]
 enable = true
