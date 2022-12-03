@@ -29,7 +29,7 @@ vision:
     image: "/images/vis2.png"
     content: Maintaining the highest possible working standards is our passion.
   - title: The SVT Maintenance Way
-    image: images/vision/vision-03.jpg
+    image: "/images/vis3.png"
     content: Get it done now, the best way possible!
 product:
   enable: true
