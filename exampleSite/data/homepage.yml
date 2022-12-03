@@ -52,7 +52,7 @@ product:
       for un-occasional flights.
     project_url: "#"
   - title: Need flight engineer?
-    image: images/product/product-03.jpg
+    image: "/images/serv3.png"
     content: Our substantial pool of engineers can support you worldwide. Anytime.
     project_url: "#"
 contact:
