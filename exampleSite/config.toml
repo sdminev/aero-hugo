@@ -5,30 +5,25 @@ title = "SVT Maintenance"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
-pre = ""
-url = "/"
-weight = 1
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 4
+[[menu.main]]
+name = "Products"
+pre = "#"
+url = "products"
+weight = 3
 [[menu.main]]
 name = "About"
 pre = "#"
 url = "mission"
 weight = 2
 [[menu.main]]
-name = "Services"
+name = "Home"
 pre = ""
-url = "#products"
-weight = ""
-[[menu.main]]
-name = "Careers"
-pre = ""
-url = "career"
-weight = 4
-[[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 5
+url = "/"
+weight = 1
 [params]
 author = "SDMinev.com"
 contact_info = "Bulgaria<br> Sofia Airport<br> block 3, office 4 <br>"
